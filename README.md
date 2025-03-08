@@ -36,7 +36,7 @@ Harmony is a pretty simple general-purpose TCP hijacking tool that can be used t
 ```
 ## Installation
 ```
-git clone https://github.com/R00tendo/harmony
+git clone https://github.com/SpoofIMEI/harmony
 cd harmony
 pip install -r requirements.txt
 ```
@@ -51,4 +51,4 @@ cat payload.bin |python3 harmony.py --target 192.168.1.39:192.168.1.53:21
 ```
 
 ## Learn what TCP hijacking is
-https://medium.com/@R00tendo/tcp-connection-hijacking-deep-dive-9bbe03fce9a9
+https://medium.com/@SpoofIMEI/tcp-connection-hijacking-deep-dive-9bbe03fce9a9
